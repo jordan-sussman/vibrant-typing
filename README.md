@@ -1,6 +1,6 @@
 # Vibrant Typing
 
-An ever-changing webpage color as you type.
+An ever-changing webpage color as you type. See `src/App.tsx`
 
 ### SETUP
 (1) Install packages
